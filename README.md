@@ -1,7 +1,7 @@
 # mern-goalsetter-app
 # A FULL MERN PROJECT
 Daily Goal setting app  
-https://amann013.github.io/mern-goalsetter-app/
+
 
 # Login
 ![WhatsApp Image 2022-06-24 at 10 27 50 PM](https://user-images.githubusercontent.com/98688943/175608234-a6b871df-4092-468f-a552-c2892513fe7d.jpeg)
